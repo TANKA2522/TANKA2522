@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there priwet👋
 
 <!--
 **TANKA2522/TANKA2522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
